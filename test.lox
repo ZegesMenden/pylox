@@ -1,0 +1,6 @@
+var varname = 105.205;
+if (varname >= 100) {
+    varname = 100;
+}
+
+print varname;

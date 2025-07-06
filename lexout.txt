@@ -1,0 +1,11 @@
+[token: [VAR] lex: [var] literal: [None]], [token: [identifier] lex: [varname] literal: [varname]], [token: [equal] lex: [=] literal: [None]], [token: [number] lex: [105.205] literal: [105.205]], [token: [EOF] lex: [
+] literal: [None]]
+[token: [IF] lex: [if] literal: [None]], [token: [paren_l] lex: [(] literal: [None]], [token: [identifier] lex: [varname] literal: [varname]], [token: [greater_equal] lex: [>=] literal: [None]], [token: [number] lex: [100] literal: [100.0]], [token: [paren_r] lex: [)] literal: [None]], [token: [brace_l] lex: [{] literal: [None]], [token: [EOF] lex: [
+] literal: [None]]
+[token: [identifier] lex: [varname] literal: [varname]], [token: [equal] lex: [=] literal: [None]], [token: [number] lex: [100] literal: [100.0]], [token: [EOF] lex: [
+] literal: [None]]
+[token: [brace_r] lex: [}] literal: [None]], [token: [EOF] lex: [
+] literal: [None]]
+[token: [EOF] lex: [
+] literal: [None]]
+[token: [PRINT] lex: [print] literal: [None]], [token: [paren_l] lex: [(] literal: [None]], [token: [identifier] lex: [varname] literal: [varname]], [token: [paren_r] lex: [)] literal: [None]], [token: [EOF] lex: [)] literal: [None]]
